@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Nest.js
+/dist/
+/tmp/
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Editor configuration
+*.editorconfig
+
+# Log files
+*.log
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
